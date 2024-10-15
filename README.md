@@ -53,4 +53,4 @@ Image decrypted successfully.
 Decrypted image saved as : image_decrypted.png
 ```
 ## Author
-Linkdin : [Sovan Das](https://www.linkedin.com/in/sovanking)
+Linkdin : [Sovan Das](https://www.linkedin.com/in/imsovandas)
