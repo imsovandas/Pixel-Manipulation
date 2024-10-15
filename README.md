@@ -14,11 +14,11 @@ This Python script provides a simple tool for encrypting and decrypting images u
 ## Usage
 1. Clone the repository:
 ```
-git clone https://github.com/imsovandas/PRODIGY_CS_04.git
+git clone https://github.com/imsovandas/Pixel-Manipulation.git
 ```
 2. Navigate to the repository directory:
 ```
-cd PRODIGY_CS_04
+cd Pixel-Manipulation
 ```
 3. Run the script:
 ```
